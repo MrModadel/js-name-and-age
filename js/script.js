@@ -7,7 +7,7 @@ if (user_name.charAt(0) === "A" || user_name.charAt(0) === "a" === user_age > 17
 } else {
    alert ("Log out of the site")
 }
-
+git 
 
 
 
